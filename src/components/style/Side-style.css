@@ -55,6 +55,7 @@ button:active{
     border-radius: 20px;
     text-align: center;
     margin-left: 5px;
+    height: 100vh;
 }
 button{
     width: 75px;
