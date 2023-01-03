@@ -52,3 +52,43 @@ button:active{
     height: 50px;
     overflow: hidden;
 }
+
+@media only screen and (max-width: 600px) {
+    .position{
+        display: flex;
+        margin-left: 140px;
+       
+    }
+
+    .card{
+        background-color: #a297bf4d;
+        width: 210px;
+        height:320px;
+        text-align: center;
+        padding: 15px;
+        border-radius: 20px;
+        margin: 10px;
+        margin-bottom: 35px;
+    }
+    .card-img{
+        border-radius: 20px;
+        height: 280px;
+        width: 210px;
+        transition: transform .2s;
+    }
+
+    .card-btn{
+        margin-top: 10px;
+        width: 210px;
+        border-radius: 10px;
+        font-size: 12px;
+        padding-bottom: 5px;
+        height: 30px;
+        overflow: hidden;
+    }
+
+
+
+
+
+}

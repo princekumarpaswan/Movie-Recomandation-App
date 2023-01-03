@@ -92,3 +92,17 @@ p{
 h1{
     margin-bottom: 10px;
 }
+
+@media only screen and (max-width: 600px) {
+    .modal-content{display: none;}
+    .btn-modal{
+        display: none;
+    }
+
+    .modal{
+        display: none;
+    }
+    .overlay{
+        display: none;
+    }
+}
