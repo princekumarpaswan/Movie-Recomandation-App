@@ -2,6 +2,8 @@
 
 By Prince Kr Paswan
 
+This app is responsive for mobiles 
+
 ## [Live Link of Movie recomadation App](https://prince-movie-recom.netlify.app/)
 
 
