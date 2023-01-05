@@ -1,6 +1,8 @@
 import React from "react";
 
 
+// card pop up
+
 const Bigcard = (props) => {
 
     if (!props.open) return null
