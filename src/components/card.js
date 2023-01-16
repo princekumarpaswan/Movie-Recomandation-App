@@ -15,6 +15,7 @@ const Card = (props) => {
     const toggleModel = (event) => {
         setModel(!modal)
         const id = (event.target.value)
+//         storing Api
         const api = `https://api.themoviedb.org/3/movie/${id}?api_key=b2ba6e67e25bef25a00d34d18815795d&language=en-US`
         getData(api)
     }
