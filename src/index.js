@@ -4,8 +4,6 @@ import App from './App';
 // done for the mobile
 
 
-
-
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <div>
