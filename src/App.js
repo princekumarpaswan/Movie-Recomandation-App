@@ -1,5 +1,4 @@
 import SubNav from "./components/sub-nav";
-
 // done here
 function App() {
   return (
@@ -8,5 +7,4 @@ function App() {
     </>
   )
 }
-
 export default App;
